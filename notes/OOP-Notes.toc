@@ -1,0 +1,51 @@
+\contentsline {chapter}{\numberline {1}C++ Basics Refresher}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Variables and Data Types}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Pointers and References}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Functions}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Stack vs Heap Memory}{4}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Classes and Objects}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}What is a Class?}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Access Specifiers}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The \texttt {this} Pointer}{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Constructors and Destructors}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}What is a Constructor?}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Types of Constructors}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Default Constructor}{8}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Parameterized Constructor}{8}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Copy Constructor}{8}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Constructor Overloading}{9}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Member Initializer List (Inline Constructor)}{9}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Destructor}{9}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Encapsulation}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}What is Encapsulation?}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Getters and Setters}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Benefits of Encapsulation}{11}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Inheritance}{12}{chapter.5}%
+\contentsline {section}{\numberline {5.1}What is Inheritance?}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Access in Inheritance}{12}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Types of Inheritance}{13}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Single Inheritance}{13}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Multilevel Inheritance}{13}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Multiple Inheritance}{13}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Hierarchical Inheritance}{13}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Hybrid Inheritance}{14}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Static Data Members and Functions}{15}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Static Data Members}{15}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Static Member Functions}{15}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Polymorphism}{17}{chapter.8}%
+\contentsline {section}{\numberline {8.1}What is Polymorphism?}{17}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Function Overloading (Compile-time)}{17}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Operator Overloading (Compile-time)}{17}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Virtual Functions (Runtime Polymorphism)}{18}{section.8.4}%
+\contentsline {chapter}{\numberline {9}Abstraction}{20}{chapter.9}%
+\contentsline {section}{\numberline {9.1}What is Abstraction?}{20}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Abstract Class and Pure Virtual Functions}{20}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Exception Handling}{22}{chapter.10}%
+\contentsline {section}{\numberline {10.1}What is Exception Handling?}{22}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Multiple Catch Blocks}{22}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Custom Exception Class}{22}{section.10.3}%
+\contentsline {chapter}{\numberline {11}File Handling}{24}{chapter.11}%
+\contentsline {section}{\numberline {11.1}File Handling in C++}{24}{section.11.1}%
+\contentsline {chapter}{\numberline {12}OOP Implementation}{26}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Combining All OOP Concepts}{26}{section.12.1}%
+\contentsline {section}{\numberline {12.2}OOP Quick Revision Cheat Sheet}{28}{section.12.2}%
