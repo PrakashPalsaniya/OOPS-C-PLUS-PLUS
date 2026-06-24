@@ -1,28 +1,34 @@
-# OOP in C++
+# 🚀 OOP in C++
 
-Learning Object-Oriented Programming in C++ from basics to advanced.
+A structured 10-day journey learning Object-Oriented Programming in C++, from absolute basics to advanced concepts and a final mini-project.
 
-## Topics Covered
+## 📅 10-Day Roadmap
 
-- Basics
-- Classes and Objects
-- Constructors & Destructors
-- Encapsulation
-- Inheritance & Types of Inheritance
-- Static Data Members & Functions
-- Polymorphism
-- Abstraction
-- Exception Handling
-- File Handling
-- OOP Mini Project
+- **Day 1:** Basics Refresher 
+- **Day 2:** Classes and Objects
+- **Day 3:** Constructors & Destructors
+- **Day 4:** Encapsulation
+- **Day 5:** Inheritance & Types of Inheritance
+- **Day 6:** Static Data Members & Functions
+- **Day 7:** Polymorphism
+- **Day 8:** Abstraction
+- **Day 9:** Exception Handling
+- **Day 10:** File Handling & Bank Management Mini Project
 
-## How to Run
+## 💻 How to Compile and Run
 
 ```bash
+# Compile the code
 g++ filename.cpp -o output
+
+# Run the executable (Windows)
+.\output.exe
+
+# Run the executable (Mac/Linux)
 ./output
 ```
 
-## Reference
+## 📚 References
 
-- Rohit Negi - OOP in C++
+- Rohit Negi - OOP in C++ Tutorials
+- Author: Prakash Palsaniya
